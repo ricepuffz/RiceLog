@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiceLog", "RiceLog\RiceLog.csproj", "{69A7AF7D-85CC-4833-B333-E061BBFCAC99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BFA3EA58-7A1E-433D-88AC-A09F3E3FB427}"
+	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A7AF7D-85CC-4833-B333-E061BBFCAC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A7AF7D-85CC-4833-B333-E061BBFCAC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A7AF7D-85CC-4833-B333-E061BBFCAC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A7AF7D-85CC-4833-B333-E061BBFCAC99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD27C83C-8024-43C3-B935-8B75924D70CC}
+	EndGlobalSection
+EndGlobal
