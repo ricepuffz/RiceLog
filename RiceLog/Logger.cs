@@ -4,7 +4,7 @@ namespace RiceLog
 {
     public class Logger
     {
-        public static VERBOSITY CurrentVerbosity = VERBOSITY.ERROR;
+        public static VERBOSITY CurrentVerbosity = VERBOSITY.INFO;
 
         private Logger() { }
 
